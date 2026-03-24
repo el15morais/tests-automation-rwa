@@ -1,0 +1,17 @@
+{
+    "usernameValidLogin": {
+        "username": "el15morais",
+        "password": "teste123"
+    },
+    "usernameInvalidLogin": {
+        "username": "invalido",
+        "password": "testeinvalido"
+    },
+    "userValidRegister": {
+        "firstName": "Gabriel",
+        "lastName": "Morais",
+        "username": "moraisteste",
+        "password": "teste123",
+        "confirmPassword": "teste123"
+    }
+}

@@ -74,6 +74,72 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "o6DTte_Op",
+      "uuid": "8ab60e5e-91b5-41ad-8789-00cda121a6ad",
+      "firstName": "Gabriel",
+      "lastName": "Morais",
+      "username": "el15morais",
+      "password": "$2a$10$Ecr/ed2cmONs.Hrs52oumOMyRWxcSSpmLl2fvX5WPq9v4nwPr4Hzy",
+      "balance": 0,
+      "createdAt": "2026-03-24T01:42:54.183Z",
+      "modifiedAt": "2026-03-24T01:42:54.183Z"
+    },
+    {
+      "id": "aAC2C_Xx5",
+      "uuid": "5dd66acb-5d20-4695-9d1b-4e1c24fd6109",
+      "firstName": "Gabriel",
+      "lastName": "Morais",
+      "username": "moraisteste",
+      "password": "$2a$10$sNKxAWFC358361w7iavA8OB1UAsYfcRPlFDHkt5dMJ1pbqRca0rtK",
+      "balance": 0,
+      "createdAt": "2026-03-24T02:48:13.438Z",
+      "modifiedAt": "2026-03-24T02:48:13.438Z"
+    },
+    {
+      "id": "yx5LZdLMl",
+      "uuid": "ed749827-3571-49e7-8b8c-41b4f60adc18",
+      "firstName": "Gabriel",
+      "lastName": "Morais",
+      "username": "moraisteste",
+      "password": "$2a$10$pNEkLdJ9C.yISn2RoYMQ4OeJOJ.Fl6Aiauxs37YRa5UpGtmU/iWBS",
+      "balance": 0,
+      "createdAt": "2026-03-24T02:49:27.722Z",
+      "modifiedAt": "2026-03-24T02:49:27.722Z"
+    },
+    {
+      "id": "z408jxuN6",
+      "uuid": "5b3e808e-cdc6-41f1-9aeb-6fd40dab6ead",
+      "firstName": "Gabriel",
+      "lastName": "Morais",
+      "username": "moraisteste",
+      "password": "$2a$10$ZzpRBtrdcmStL/Klj65/yOqbrNoogwuWiUWnUfaswW0Z399bqnsMO",
+      "balance": 0,
+      "createdAt": "2026-03-24T02:52:42.364Z",
+      "modifiedAt": "2026-03-24T02:52:42.364Z"
+    },
+    {
+      "id": "1h_jtacC0",
+      "uuid": "9f570c96-5a68-445c-b15e-a166de2c8b84",
+      "firstName": "Gabriel",
+      "lastName": "Morais",
+      "username": "moraisteste",
+      "password": "$2a$10$UBDANwJhtqhprmi94LTSLuGoC527E0oRxY7wh5mUDPPiYImAdQVie",
+      "balance": 0,
+      "createdAt": "2026-03-24T02:54:20.817Z",
+      "modifiedAt": "2026-03-24T02:54:20.817Z"
+    },
+    {
+      "id": "SYL7xdfAd",
+      "uuid": "e82a8d81-8b0a-4cd2-9f90-f5389adaebc0",
+      "firstName": "Gabriel",
+      "lastName": "Morais",
+      "username": "moraisteste",
+      "password": "$2a$10$kV6x.04OUt2.EyvtRMaK1e5Da/OEXRMuCt.PTu3vHNS8dK/TJs6vu",
+      "balance": 0,
+      "createdAt": "2026-03-24T03:04:31.329Z",
+      "modifiedAt": "2026-03-24T03:04:31.329Z"
     }
   ],
   "contacts": [
