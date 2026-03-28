@@ -13,5 +13,13 @@
         "username": "moraisteste",
         "password": "teste123",
         "confirmPassword": "teste123"
+    },
+    "suficientTransferData": {
+        "amount": "100",
+        "description": "Transferência de teste"
+    },
+    "insuficientTransferData": {
+        "amount": "1000000",
+        "description": "Transferência de teste com saldo insuficiente"
     }
 }

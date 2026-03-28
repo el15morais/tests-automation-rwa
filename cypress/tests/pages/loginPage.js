@@ -4,7 +4,7 @@ class LoginPage {
             usernameField: "[name='username']",
             passwordField: "[name='password']",
             loginButton: "[type='submit']",
-            confirmPage: "[data-test='user-onboarding-dialog-title']",
+            confirmPage: "[data-test='sidenav']",
             errorAlert: "[role='alert']"
         }
 
