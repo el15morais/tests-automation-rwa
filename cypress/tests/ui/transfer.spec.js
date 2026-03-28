@@ -6,7 +6,7 @@ const login = new LoginPage()
 
 beforeEach(() => {
     login.accessLoginPage()
-    login.loginValid('el15morais', 'teste123')
+    login.loginValid(infos.usernameValidLogin.username, infos.usernameValidLogin.password)
 })
 
 const transfer = new TransferPage()

@@ -7,6 +7,10 @@
         "username": "invalido",
         "password": "testeinvalido"
     },
+    "alternativeUsernameValidLogin": {
+        "username": "teste",
+        "password": "teste"
+    },
     "userValidRegister": {
         "firstName": "Gabriel",
         "lastName": "Morais",

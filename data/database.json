@@ -85,6 +85,17 @@
       "balance": 0,
       "createdAt": "2026-03-28T13:11:42.798Z",
       "modifiedAt": "2026-03-28T13:11:42.798Z"
+    },
+    {
+      "id": "5A3hrAHOa",
+      "uuid": "9de0b4cc-cde7-4413-807f-627d7bb7fe36",
+      "firstName": "teste",
+      "lastName": "teste",
+      "username": "teste",
+      "password": "$2a$10$hVwhl.h9DiX7PwRSU1HG3OpveBSuBg4l7p8gBC6WxAu8o78aK6cBu",
+      "balance": 0,
+      "createdAt": "2026-03-28T16:11:52.822Z",
+      "modifiedAt": "2026-03-28T16:11:52.822Z"
     }
   ],
   "contacts": [
@@ -286,6 +297,17 @@
       "isDeleted": true,
       "createdAt": "2026-03-28T13:37:58.203Z",
       "modifiedAt": "2026-03-28T13:37:58.203Z"
+    },
+    {
+      "id": "cRqBiStCz",
+      "uuid": "2d2263a1-3455-43bd-998c-15a2cacfab72",
+      "userId": "5A3hrAHOa",
+      "bankName": "teste",
+      "accountNumber": "testeeeee",
+      "routingNumber": "testeeeee",
+      "isDeleted": false,
+      "createdAt": "2026-03-28T16:12:14.202Z",
+      "modifiedAt": "2026-03-28T16:12:14.202Z"
     }
   ],
   "transactions": [
